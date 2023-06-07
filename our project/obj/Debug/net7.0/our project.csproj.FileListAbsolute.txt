@@ -1,0 +1,15 @@
+/home/gaia/C#/our project/bin/Debug/net7.0/our project
+/home/gaia/C#/our project/bin/Debug/net7.0/our project.deps.json
+/home/gaia/C#/our project/bin/Debug/net7.0/our project.runtimeconfig.json
+/home/gaia/C#/our project/bin/Debug/net7.0/our project.dll
+/home/gaia/C#/our project/bin/Debug/net7.0/our project.pdb
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.csproj.AssemblyReference.cache
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.AssemblyInfoInputs.cache
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.AssemblyInfo.cs
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.csproj.CoreCompileInputs.cache
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.dll
+/home/gaia/C#/our project/obj/Debug/net7.0/refint/our project.dll
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.pdb
+/home/gaia/C#/our project/obj/Debug/net7.0/our project.genruntimeconfig.cache
+/home/gaia/C#/our project/obj/Debug/net7.0/ref/our project.dll

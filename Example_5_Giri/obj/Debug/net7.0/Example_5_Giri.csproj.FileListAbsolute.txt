@@ -1,0 +1,15 @@
+/home/gaia/C-Sharp/Example_5_Giri/bin/Debug/net7.0/Example_5_Giri
+/home/gaia/C-Sharp/Example_5_Giri/bin/Debug/net7.0/Example_5_Giri.deps.json
+/home/gaia/C-Sharp/Example_5_Giri/bin/Debug/net7.0/Example_5_Giri.runtimeconfig.json
+/home/gaia/C-Sharp/Example_5_Giri/bin/Debug/net7.0/Example_5_Giri.dll
+/home/gaia/C-Sharp/Example_5_Giri/bin/Debug/net7.0/Example_5_Giri.pdb
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.csproj.AssemblyReference.cache
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.AssemblyInfoInputs.cache
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.AssemblyInfo.cs
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.csproj.CoreCompileInputs.cache
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.dll
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/refint/Example_5_Giri.dll
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.pdb
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/Example_5_Giri.genruntimeconfig.cache
+/home/gaia/C-Sharp/Example_5_Giri/obj/Debug/net7.0/ref/Example_5_Giri.dll

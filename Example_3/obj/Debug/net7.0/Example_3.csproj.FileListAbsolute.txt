@@ -1,0 +1,15 @@
+/home/gaia/C-Sharp/Example_3/bin/Debug/net7.0/Example_3
+/home/gaia/C-Sharp/Example_3/bin/Debug/net7.0/Example_3.deps.json
+/home/gaia/C-Sharp/Example_3/bin/Debug/net7.0/Example_3.runtimeconfig.json
+/home/gaia/C-Sharp/Example_3/bin/Debug/net7.0/Example_3.dll
+/home/gaia/C-Sharp/Example_3/bin/Debug/net7.0/Example_3.pdb
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.csproj.AssemblyReference.cache
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.AssemblyInfoInputs.cache
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.AssemblyInfo.cs
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.csproj.CoreCompileInputs.cache
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.dll
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/refint/Example_3.dll
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.pdb
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/Example_3.genruntimeconfig.cache
+/home/gaia/C-Sharp/Example_3/obj/Debug/net7.0/ref/Example_3.dll
